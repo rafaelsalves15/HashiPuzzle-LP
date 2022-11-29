@@ -1,4 +1,4 @@
 # HashiPuzzle-LP 🧩
 
-PROLOG program to solve hashi puzzles.
+Prolog program to solve hashi puzzles.
 
